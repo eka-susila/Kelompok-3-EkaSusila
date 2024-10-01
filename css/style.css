@@ -1,0 +1,10 @@
+.jumbotron{
+    background-color:lightpink;
+}
+
+body{
+    min-height: 3000px;
+}
+#project{
+    background-color:lightcoral;
+}
